@@ -1,0 +1,3 @@
+- 🐧 Gentoo Linux
+- </> Python / Ruby / C / Html / Java
+- 🖥️(DE) xfce4 / iceWM
